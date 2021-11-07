@@ -30,7 +30,9 @@ Ideas of what to do with this dataset:
 > Perform univariate,bivariate and multivariate analysis on this data to check 3 hypothesis-
 
  (a) Does seasons with higher or lower temperatures use more energy ?
+ 
  (b) Does holiday periods spend more energy ?
+ 
  (c) Does we spend more energy in Weekends ?
  
 > Split the last year into a test set- to build a model to predict energy consumption
